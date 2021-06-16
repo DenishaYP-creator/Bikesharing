@@ -1,7 +1,7 @@
 # Bikesharing
  
 # Overview of the analysis: 
-The purpose of this analysis is to demonstrated the benefits of a bike-sharing program. In this analysis we  utilized a dataset from New York Citi Bike-Share program for the month of August. To ensure that the date time columns were formated correctly we utlized Python Pandas library to convert the trip duration into the proper date time format. We than utilized Tableu Public to create a compelling visualization that help us with telling the story of the data. 
+The purpose of this analysis is to demonstrated the benefits of a bike-sharing program. In this analysis we  utilized a dataset from New York Citi Bike-Share program for the month of August. To ensure that the date time columns were formated correctly we utlized Python Pandas library to convert the trip duration into the proper date time format. We than utilized Tableu Public to create a compelling visualization that help us with telling the story of the data. Tableu Public Link: https://public.tableau.com/profile/denisha.perez#!/?newProfile=&activeTab=0
 
 # Results: 
 [![1-Checkout-Timesfor-Users-Viz.png](https://i.postimg.cc/h4L753Dk/1-Checkout-Timesfor-Users-Viz.png)](https://postimg.cc/ThPwy0W0)
